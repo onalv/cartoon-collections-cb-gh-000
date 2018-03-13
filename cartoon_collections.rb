@@ -23,7 +23,7 @@ def find_the_cheese(array)# code an argument here
           return item
         end
       end
-    end  
+    end
   end
   false
 end
